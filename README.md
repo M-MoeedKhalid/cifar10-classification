@@ -1,6 +1,6 @@
 # cifar10-classification
 
-A machine learning (scikit-learn) based approach on classifying the famous [cifar-10!](https://www.cs.toronto.edu/~kriz/cifar.html) dataset.
+A machine learning based approach on classifying the famous [cifar-10!](https://www.cs.toronto.edu/~kriz/cifar.html) dataset.
 The four files are for:
 * load_data loads the cifar-10 dataset.
 * cifar10_individual_classifiers.py contains code for classification of cifar-10 dataset using Guassian Naive Bayes Algorithm, a KNN (3-NN) algorithm and a Support Vector machine with rbf kernel
